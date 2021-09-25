@@ -1,6 +1,6 @@
 {
   "name": "budget-app",
-  "version": "1.0.0",
+  "version": "14.17.1",
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
   },
-  "author": "",
+  "author": "Carolina Reedy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/coding-boot-camp/unit18hw/issues"
@@ -23,5 +23,9 @@
     "express": "^4.17.1",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.54.0",
+    "webpack-cli": "^4.8.0"
   }
 }
