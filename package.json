@@ -26,10 +26,12 @@
     "express": "^4.17.1",
     "jquery": "^3.6.0",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "popper.js": "^1.16.1"
   },
   "devDependencies": {
     "webpack": "^4.46.0",
+    "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.6.0"
   }
 }
