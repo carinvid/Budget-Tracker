@@ -24,6 +24,7 @@
   "dependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
+    "@popperjs/core": "^2.10.1",
     "babel-loader": "^8.2.2",
     "bootstrap": "^5.1.1",
     "compression": "^1.7.4",
